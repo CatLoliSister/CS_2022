@@ -5,6 +5,12 @@
   - pandas
   - scipy
   - statsmodels(統計分析)
+
+- 科學計算  scientific calculation
+  - sympy
+  - scipy
+- 電腦視覺
+  - opencv
 - 資料視覺化  Data Visulization
   - matplotlib
   - seaborn
@@ -16,4 +22,4 @@
 
 - 機器學習與人工智慧
   - Tensorflow
-  - Pytorch 
+  - Pytorch (torch)
